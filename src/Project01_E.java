@@ -55,6 +55,7 @@ public class Project01_E {
 					response.append(inputLine);
 				}
 				br.close();
+				System.out.println(response.toString());
 			}
 			
 			
